@@ -15,13 +15,17 @@ It' a community of **mentor developers** to support you to reach your goals as d
 :briefcase: **I’m currently working on an Team webapp as Frontend-developer! it's a webapp for image recognition still in progress!** [TeamProject](https://github.com/manuelalonge/team-four-webapp-frontend)
 <br>
 
-It was the first time I worked on a **Team project** as a developer but it was a very interesting and challenging opportunity. You can learn a lot about yourself and your code working with others like:
+You can learn a lot about yourself and your code **working with others** like:
 - be **clear as possibile**	:policeman: about your code (the others must understand what you've done!);
 - **communicate**:speaking_head: with your team members: if there's any problem and you're stucked;
 - **ask for help**:pray: when you don't know how to do something or you're stucked;
 - how to use **git**;
 
 <br>
+
+## contact me 
+<a href="mailto:luca.bertoldi89@gmail.com">Email</a>
+<a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
 
 ## Projects :floppy_disk:
 <br>
@@ -43,6 +47,3 @@ It was the first time I worked on a **Team project** as a developer but it was a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaBert89&theme=dark)](https://github.com/LucaBert89/github-readme-stats)
 
-## How to contact me
-<a href="mailto:luca.bertoldi89@gmail.com">Email</a>
-<a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
