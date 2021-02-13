@@ -20,7 +20,11 @@ You can learn a lot about yourself and your code **working with others** like:
 - **ask for help**:pray: when you don't know how to do something or you're stucked;
 - how to use **git**;
 
-**contact me**<a href="mailto:luca.bertoldi89@gmail.com">Email</a><a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
+<br>
+
+**contact me** 
+<a href="mailto:luca.bertoldi89@gmail.com">Email</a> 
+<a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
 
 <br>
 
