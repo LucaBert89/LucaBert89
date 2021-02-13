@@ -1,8 +1,7 @@
 # Hi there, I'm Luca! 👋
 
 ### I'm an aspiring junior web developer, passionate about technology :computer: and always eager to learn something new:student: about it! 
- 
- <br>
+<br>
 
 ## About me :boy:
 <br>
@@ -21,11 +20,9 @@ You can learn a lot about yourself and your code **working with others** like:
 - **ask for help**:pray: when you don't know how to do something or you're stucked;
 - how to use **git**;
 
-<br>
+**contact me**<a href="mailto:luca.bertoldi89@gmail.com">Email</a><a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
 
-## contact me 
-<a href="mailto:luca.bertoldi89@gmail.com">Email</a>
-<a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
+<br>
 
 ## Projects :floppy_disk:
 <br>
