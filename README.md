@@ -22,6 +22,12 @@ You can learn a lot about yourself and your code **working with others** like:
 
 <br>
 
+## Soft Skills
+- team working;
+- problem solving;
+- eager to learn;
+- time management
+
 **contact me** 
 <a href="mailto:luca.bertoldi89@gmail.com">Email</a> 
 <a href="www.linkedin.com/in/lucabertoldi89">Linkedin</a>
