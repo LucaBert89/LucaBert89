@@ -18,7 +18,7 @@ You can learn a lot about yourself and your code **working with others** like:
 - be **clear as possibile**	:policeman: about your code (the others must understand what you've done!);
 - **communicate**:speaking_head: with your team members: if there's any problem and you're stucked;
 - **ask for help**:pray: when you don't know how to do something or you're stucked;
-- how to use **git**;
+- how to use **git**: feature-branch and pull request/code review approach;
 
 <br>
 
