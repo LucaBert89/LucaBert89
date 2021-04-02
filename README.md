@@ -11,7 +11,7 @@ It' a community of **mentor developers** to support you to reach your goals as d
 <br>
 <br>
 
-:briefcase: **I’m currently working on an Team webapp as Frontend-developer! it's a webapp for image recognition still in progress!** [TeamProject](https://github.com/manuelalonge/team-four-webapp-frontend)
+:briefcase: **I’m currently working on an Team webapp as Frontend-developer! it's a webapp for image recognition still in progress!** [TeamProject](https://github.com/isabel-lombardi/fe_cat_photo)
 <br>
 
 You can learn a lot about yourself and your code **working with others** like:
@@ -48,6 +48,7 @@ You can learn a lot about yourself and your code **working with others** like:
 |[FoodSpin](https://food-spin.netlify.app/)| A landing page desktop only made with JS,Scss, webpack and animations|[FoodSpin_Github](https://github.com/LucaBert89/Food-spin)|
 |[LakeWeatherMap](https://lakeweathermap.netlify.app/)| a responsive project for wheater forecast and lakes research made with HTML,Css bootstrap, JS, webpack with API call|[LakeWeatherMap_Github](https://github.com/LucaBert89/LAKE-WEATHER-MAP)|
 |[PokerGame](https://classicpokergame.netlify.app/)| a Work-in-progress poker game made in JS. The goal is to make a classic poker game against a max of 4 players with MOCHA.js testing|[PokerGame_Github](https://github.com/LucaBert89/pokerGame)|
+|[CAT_PHOTO](https://cat-photo.netlify.app/)| a Work-in-progress app where I worked as Frontend developer with my team |[CAT_PHOTO_Github](https://github.com/isabel-lombardi/fe_cat_photo)|
 <br>
 
 ## Languages
