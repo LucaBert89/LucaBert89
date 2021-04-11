@@ -47,7 +47,7 @@ You can learn a lot about yourself and your code **working with others** like:
 |[MovieStreaming](https://shortmovies-streaming.netlify.app/)| a streaming website made with JS,CSS,HTML| [MovieStreaming_Github](https://github.com/LucaBert89/shortmovies-streaming)|
 |[FoodSpin](https://food-spin.netlify.app/)| A landing page desktop only made with JS,Scss, webpack and animations|[FoodSpin_Github](https://github.com/LucaBert89/Food-spin)|
 |[LakeWeatherMap](https://lakeweathermap.netlify.app/)| a responsive project for wheater forecast and lakes research made with HTML,Css bootstrap, JS, webpack with API call|[LakeWeatherMap_Github](https://github.com/LucaBert89/LAKE-WEATHER-MAP)|
-|[PokerGame](https://classicpokergame.netlify.app/)| a Work-in-progress poker game made in JS. The goal is to make a classic poker game against a max of 4 players with MOCHA.js testing|[PokerGame_Github](https://github.com/LucaBert89/pokerGame)|
+|[PokerGame](https://classicpokergame.netlify.app/)| a poker game made in JS. The goal was to make a classic multyplayer poker game with a max of 4 players with MOCHA.js testing|[PokerGame_Github](https://github.com/LucaBert89/pokerGame)|
 |[CAT_PHOTO](https://cat-photo.netlify.app/)| a Work-in-progress app where I worked as Frontend developer with my team |[CAT_PHOTO_Github](https://github.com/isabel-lombardi/fe_cat_photo)|
 <br>
 
