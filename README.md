@@ -39,13 +39,13 @@ You can learn a lot about yourself and your code **working with others** like:
 
 |Deploy link|:page_facing_up:Description|:floppy_disk: Project code|
 |---|---|---|
-|[hotelLandingPage](https://bestbookingplan.netlify.app/)| basic level project, an hotel landing page. It has only a desktop view without responsiveness with html and css| [hotel_Github](https://github.com/LucaBert89/HOTEL-BOOKING)|
+|[hotelLandingPage](https://bestbookingplan.netlify.app/)| DESKTOP ONLY basic level project, an hotel landing page. Made in html and css| [hotel_Github](https://github.com/LucaBert89/HOTEL-BOOKING)|
 |[responsiveRelationz](https://helpmyrelationz.netlify.app/)| full responsive landing page with HTML, SCSS,WEBPACK|[responsiveRelationz_Github](https://github.com/LucaBert89/RESPONSIVE-WEBSITE-RELATIONZ)|
 |[DashboardLTE](https://dashboard-changetheme.netlify.app/)| Dashboard project I made with HTML-CSS and JS. It's responsive and clicking on the button above you can change the background|[DashboardLTE_Github](https://github.com/LucaBert89/DASHBOARD-LTE)|
 |[SliderProject](https://tomorrowslider-project.netlify.app/)| A responsive and swipeable slider project with html, Css, Js|[SliderProject_Github](https://github.com/LucaBert89/slider-project)|
 |[ConsultantLandingPage](https://dreammaker-consultant.netlify.app/)| full responsive landing page made with JS, HTML,CSS AND WEBPACK|[ConsultantLandingPage_Github](https://github.com/LucaBert89/consultant-landing-page)|
 |[MovieStreaming](https://shortmovies-streaming.netlify.app/)| a streaming website made with JS,CSS,HTML| [MovieStreaming_Github](https://github.com/LucaBert89/shortmovies-streaming)|
-|[FoodSpin](https://food-spin.netlify.app/)| A landing page desktop only made with JS,Scss, webpack and animations|[FoodSpin_Github](https://github.com/LucaBert89/Food-spin)|
+|[FoodSpin](https://food-spin.netlify.app/)| DESKTOP ONLY landing made in JS,Scss, webpack and animations|[FoodSpin_Github](https://github.com/LucaBert89/Food-spin)|
 |[LakeWeatherMap](https://lakeweathermap.netlify.app/)| a responsive project for wheater forecast and lakes research made with HTML,Css bootstrap, JS, webpack with API call|[LakeWeatherMap_Github](https://github.com/LucaBert89/LAKE-WEATHER-MAP)|
 |[PokerGame](https://classicpokergame.netlify.app/)| a poker game made in JS. The goal was to make a classic multyplayer poker game with a max of 4 players with MOCHA.js testing|[PokerGame_Github](https://github.com/LucaBert89/pokerGame)|
 |[CAT_PHOTO](https://cat-photo.netlify.app/)| a Work-in-progress app where I worked as Frontend developer in a team of frontend and backend developers |[CAT_PHOTO_Github](https://github.com/isabel-lombardi/fe_cat_photo)|
