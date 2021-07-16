@@ -11,8 +11,9 @@ It' a community of **mentor developers** to support you to reach your goals as d
 <br>
 <br>
 
-:briefcase: **I’m currently working on an Team webapp as Frontend-developer! it's a webapp for image recognition still in progress!** [TeamProject](https://github.com/isabel-lombardi/fe_cat_photo)
-<br>
+:briefcase: **In my first Team coding experience, I worked on a webapp as Frontend-developer! it's a webapp for image recognition!** [TeamProject](https://github.com/isabel-lombardi/fe_cat_photo)
+<br> 
+**I'm currently working in another Team, developing a browser game using OOP** [TeamProject2](https://github.com/browser-game-team2/browser-game-fe/tree/dev)
 
 You can learn a lot about yourself and your code **working with others** like:
 - be **clear as possibile**	:policeman: about your code (the others must understand what you've done!);
