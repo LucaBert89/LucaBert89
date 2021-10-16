@@ -40,6 +40,7 @@ You can learn a lot about yourself and your code **working with others** like:
 
 |Deploy link|:page_facing_up:Description|:floppy_disk: Project code|
 |---|---|---|
+|[LeadDevpage]| Use docker-compose up to start the project, This is a JAMSTACK project, I used Graphcms, Graphql, Gatsby, react, Typescript with docker| [LeadDevProject-code](https://github.com/LucaBert89/lead-dev-codechallenge/tree/dev-project/solutions/LucaBertoldi)|
 |[TelegramBot]| Look for "FiscalCodeLucaB" on Telegram, this is a telegram bot to generate a FiscalCode based on user input, using Node.js: Telegraf, Express| [fiscalCode-bot](https://github.com/LucaBert89/fiscal-code-generator-bot)|
 |[real-time-chat](https://real-chat-app-l.herokuapp.com/)| a realtime chat app realized using a MERN stack with typescript, socket.io and JWT for authentication |[Real-time-chat_Github](https://github.com/LucaBert89/nodejs-real-time-chat)|
 |[Rock_paper_scissor](https://rock-paper-scissor-battle.netlify.app/)| a rock-paper-scissor game made using JS and jest for testing |[Rock_paper_scissor_Github](https://github.com/LucaBert89/Rock-paper-scissor-game)|
