@@ -1,6 +1,6 @@
 # Hi there, I'm Luca! 👋
 
-### I'm an aspiring junior web developer, passionate about technology :computer: and always eager to learn something new:student: about it! 
+### I'm a software engineer, passionate about technology :computer: and always eager to learn something new:student: about it! 
 <br>
 
 ## About me :boy:
